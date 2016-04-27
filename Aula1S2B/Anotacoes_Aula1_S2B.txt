@@ -1,0 +1,11 @@
+S2B
+Usuario: S2B Dev Mobile 2016.1
+Senha: pass@word1
+VisualStudio Enterprise
+--------------------------
+dev.windows.com
+www.visualstudio.com
+msdn.microsoft.com
+
+----------------------
+http://www.inf.pucrs.br/agustini/s2b/cs/

@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Aula1S2B\Codigo1\bin\Debug\Codigo1.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Aula1S2B\Codigo1\bin\Debug\Codigo1.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Aula1S2B\Codigo1\bin\Debug\Codigo1.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Aula1S2B\Codigo1\obj\Debug\Codigo1.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Aula1S2B\Codigo1\obj\Debug\Codigo1.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Aula1S2B\Codigo1\obj\Debug\Codigo1.pdb
