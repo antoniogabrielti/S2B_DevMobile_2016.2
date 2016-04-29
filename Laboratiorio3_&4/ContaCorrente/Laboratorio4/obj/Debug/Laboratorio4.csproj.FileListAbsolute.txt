@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ContaCorrente\Laboratorio4\bin\Debug\Laboratorio4.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\ContaCorrente\Laboratorio4\bin\Debug\Laboratorio4.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ContaCorrente\Laboratorio4\bin\Debug\Laboratorio4.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ContaCorrente\Laboratorio4\obj\Debug\Laboratorio4.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\ContaCorrente\Laboratorio4\obj\Debug\Laboratorio4.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ContaCorrente\Laboratorio4\obj\Debug\Laboratorio4.pdb
