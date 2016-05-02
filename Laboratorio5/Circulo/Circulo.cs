@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Circulo
 {
-    class Circulo
+    public class Circulo
     {
         private double coordX;
         private double coordY;
