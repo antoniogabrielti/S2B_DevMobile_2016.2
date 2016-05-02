@@ -19,6 +19,17 @@ namespace Circulo
             Console.WriteLine(circ3);
             CirculoColorido circ4 = new CirculoColorido(1.5, 3.1, 1, "vermelho");
             Console.WriteLine(circ4);
+            Console.WriteLine(circ4.CentroX);
+            Circulo[] ArraysDeCirculos = new Circulo[4];
+            ArraysDeCirculos[0] = circ1;
+            ArraysDeCirculos[1] = circ2;
+            ArraysDeCirculos[2] = circ3;
+            ArraysDeCirculos[3] = circ4;
+            Console.WriteLine("----- ArrayNa ------");
+            foreach(Circulo C in ArraysDeCirculos)
+            {
+                Console.WriteLine(C.ToString());
+            }
         }
     }
 }
