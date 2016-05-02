@@ -1,0 +1,6 @@
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\Circulo\bin\Debug\Circulo.exe.config
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\Circulo\bin\Debug\Circulo.exe
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\Circulo\bin\Debug\Circulo.pdb
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\Circulo\obj\Debug\Circulo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\Circulo\obj\Debug\Circulo.exe
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\Circulo\obj\Debug\Circulo.pdb

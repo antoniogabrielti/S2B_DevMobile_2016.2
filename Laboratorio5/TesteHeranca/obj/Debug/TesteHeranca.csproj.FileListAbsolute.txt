@@ -1,0 +1,6 @@
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\TesteHeranca\obj\Debug\TesteHeranca.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\TesteHeranca\bin\Debug\TesteHeranca.exe.config
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\TesteHeranca\bin\Debug\TesteHeranca.exe
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\TesteHeranca\bin\Debug\TesteHeranca.pdb
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\TesteHeranca\obj\Debug\TesteHeranca.exe
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio5\TesteHeranca\obj\Debug\TesteHeranca.pdb
