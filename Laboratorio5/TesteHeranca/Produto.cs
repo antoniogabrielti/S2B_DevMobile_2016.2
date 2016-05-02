@@ -27,5 +27,9 @@ namespace TesteHeranca
                 preco = value;
             }
         }
+        public override string ToString()
+        {
+            return "[" + descricao + " ; " + preco + "]";
+        }
     }
 }

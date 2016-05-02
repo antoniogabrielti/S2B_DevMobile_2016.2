@@ -12,6 +12,7 @@ namespace TesteHeranca
         {
             ProdutoPerecivel pp = new ProdutoPerecivel("a", 1.99, new DateTime(2016, 12, 25));
             Console.WriteLine(pp.Preco);
+            Console.WriteLine(pp.ToString());
         }
     }
 }

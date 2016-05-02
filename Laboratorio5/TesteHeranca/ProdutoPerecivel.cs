@@ -14,5 +14,9 @@ namespace TesteHeranca
         {
             data = dv;
         }
+        public override string ToString()
+        {
+            return base.ToString()+"["+data+"]";
+        }
     }
 }
