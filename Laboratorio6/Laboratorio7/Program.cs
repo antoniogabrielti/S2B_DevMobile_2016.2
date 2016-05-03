@@ -18,6 +18,15 @@ namespace Laboratorio7
             {
                 Console.WriteLine(lista[i].Estado);
             }
+            foreach(var dispositivo in lista)
+            {
+                dispositivo.Ligar();
+                Console.WriteLine(dispositivo.Estado);
+            }
+            foreach (var dispositivo in lista)
+            {
+                Console.WriteLine(dispositivo.Estado);
+            }
         }
     }
 }
