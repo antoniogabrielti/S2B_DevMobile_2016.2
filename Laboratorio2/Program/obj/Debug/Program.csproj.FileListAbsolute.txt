@@ -4,3 +4,6 @@ c:\users\aluno\documents\visual studio 2015\Projects\Laboratorio2\Program\bin\De
 c:\users\aluno\documents\visual studio 2015\Projects\Laboratorio2\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
 c:\users\aluno\documents\visual studio 2015\Projects\Laboratorio2\Program\obj\Debug\Program.exe
 c:\users\aluno\documents\visual studio 2015\Projects\Laboratorio2\Program\obj\Debug\Program.pdb
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio2\Program\bin\Debug\Program.exe.config
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio2\Program\obj\Debug\Program.exe
+C:\Users\Aluno\Desktop\S2B\S2B_DevMobile_2016.2\Laboratorio2\Program\obj\Debug\Program.pdb
